@@ -4,7 +4,7 @@
 
 ---
 
-![COAE Badge](/Images/1.png)
+![Image](/Images/1.webp)
 
 ---
 
