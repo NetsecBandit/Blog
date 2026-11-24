@@ -20,7 +20,7 @@ I'm keeping the technical specifics vague here out of respect for HTB's responsi
 
 I reported it through HTB's official responsible disclosure channel. Wrote up a clear proof of concept, described the impact, and waited. I've reported bugs before where you send a detailed writeup into the void and hear nothing. HTB wasn't like that.
 
-They responded, confirmed the issue, and rewarded me with a **COAE (Certified Offshore Assault Expert) voucher**. I wasn't expecting that. It's a solid cert, and getting it as a reward for a bug report felt good in a way that a generic "thanks" email doesn't.
+They responded, confirmed the issue, and rewarded me with a **COAE (Certified Offensive AI Expert) voucher**. I wasn't expecting that. It's a solid cert, and getting it as a reward for a bug report felt good in a way that a generic "thanks" email doesn't.
 
 ## Why Bother Reporting It?
 
